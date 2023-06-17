@@ -1,0 +1,39 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"Jane Cooper",
+            "email":"jane.cooper@example.com",
+            "status":"Active",
+            "role":"Admin"
+        },
+        {
+            "id":2,
+            "name":"Raveena",
+            "email":"raveena@example.com",
+            "status":"Active",
+            "role":"programmer"
+        },
+        {
+            "id":3,
+            "name":"Vinaya.G",
+            "email":"mauny.cooper@example.com",
+            "status":"Active",
+            "role":"Developer"
+        },
+        {
+            "id":4,
+            "name":"Gaya ravi",
+            "email":"gayu@example.com",
+            "status":"Inactive",
+            "role":"Engineer"
+        },
+        {
+            "id":5,
+            "name":"Ravi",
+            "email":"ravi@example.com",
+            "status":"Active",
+            "role":"Secretary"
+        }
+    ]
+}
